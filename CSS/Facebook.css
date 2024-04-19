@@ -1,0 +1,87 @@
+#field{
+    width: fit-content;
+    margin-left: 748px;
+    margin-top: 132px;
+    border-radius: 7px;
+    border: 1.3px rgb(202, 199, 199) solid;
+    background-color: white;
+}
+body{
+    background-color: rgb(233, 235, 236);
+}
+#tablething{
+    width: fit-content;
+}
+#input1{
+    width: 350px;
+    height: 47px;
+    padding-left: 16px;
+    font-size: 17px;
+    border-radius: 7px;
+    border: 1.5px rgb(201, 197, 197) solid;
+    margin-top: 10px;
+}
+#input2{
+    width: 350px;
+    height: 47px;
+    padding-left: 16px;
+    font-size: 17px;
+    border-radius: 7px;
+    border: 1.5px rgb(201, 197, 197) solid;
+    margin-top: 10px;
+}
+#login{
+     width: 370px;
+    height: 46px;
+     font-size: 20px;
+     font-weight:600;
+     color: white;
+    margin-top: 10px;
+    border-radius: 7px;
+    border: 1.5px rgb(97, 97, 214) solid;
+    background-color: rgb(97, 97, 214);
+}
+#forgot{
+    font-size: 17px;
+    margin-left: 120px;
+    color: blue;
+    font-weight:500;
+}
+#line{
+    position: absolute;
+    margin-top: 242px;
+    border: -1px rgb(243, 238, 238) solid ;
+    width: 358px;
+    margin-left: 6px;
+}
+#create{
+    margin-left: 90px ;
+    height: 46px;
+    font-size: 16px;
+    background-color: rgb(18, 165, 18);
+    color: white;
+    font-weight: 600;
+    width: 190px;
+    border-radius: 7px;
+    border: 1px solid rgb(18, 165, 18);
+    margin-top: 7px;
+}
+#paragraph{
+    margin-left: 787px;
+    margin-top: 25px;
+    font-size: 17px;
+}
+#image{
+    position: absolute;
+    width: 315px;
+    margin-left: 154px;
+    margin-top: 47px;
+}
+#toptext{
+    position: absolute;
+    font-size: 28px;
+    margin-top: 142px;
+    margin-left: 186px;
+    font-weight:500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
